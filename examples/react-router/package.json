@@ -7,7 +7,7 @@
     "test": "x0 build App.js --html Root.js"
   },
   "dependencies": {
-    "@compositor/x0": "^1.0.9",
+    "@compositor/x0": "^4.0.2",
     "cxs": "^6.2.0",
     "react-router-dom": "^4.2.2"
   },

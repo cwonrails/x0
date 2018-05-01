@@ -7,7 +7,7 @@
     "test": "x0 build App.js --html Root.js"
   },
   "dependencies": {
-    "cxs": "^6.0.0",
-    "@compositor/x0": "^1.0.9"
+    "cxs": "^6.2.0",
+    "@compositor/x0": "^4.0.2"
   }
 }
